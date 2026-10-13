@@ -20,6 +20,10 @@
 
 详见 https://www.tampermonkey.net/faq.php?q=Q209#Q209
 
+打开插件设置的 **Allow User Scripts**
+
+![授权](images/allow-user-scripts.png)
+
 3. 在 Tampermonkey 创建相关脚本
 
 在浏览器右上角点击 Tampermonkey 插件图标，再点击 **Create a new script**，然后删除默认内容，把 [sjtu-videos-custom-speed.user.js](sjtu-videos-custom-speed.user.js) 的全部内容复制进 Editor 中
