@@ -4,6 +4,7 @@
 // @version      1.0.0
 // @description  在原倍速菜单中输入自定义倍率，同时控制课堂和课件视频。
 // @match        https://v.sjtu.edu.cn/jy-application-resourcemanage-ui/*
+// @match        https://v.sjtu.edu.cn/jy-application-resmgr-ui/*
 // @run-at       document-end
 // @grant        none
 // @sandbox      raw
